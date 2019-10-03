@@ -1,0 +1,15 @@
+- AWS (Amazon Web Services) : Nền tảng điện toán đám mây sử dụng rộng rãi nhất.
+- CNN (Convolutional Neural Network): Mạng CNN là một tập hợp các lớp Convolution chồng lên nhau và sử dụng các hàm nonlinear activation như ReLU và tanh để kích hoạt các trọng số trong các node. Mỗi một lớp sau khi thông qua các hàm kích hoạt sẽ tạo ra các thông tin trừu tượng hơn cho các lớp tiếp theo.
+- Deep Learning :
+- feedforward neural network : mạng truyền ngược 
+- fully connected layer : mạng kết nối đầy đủ
+- pooling/subsampling layer : chắc lộc các thông tin hữu ít
+- ANN (Artificial Neural Network):Mạng Nơron nhân tạo là mô hình xử lý thông tin được mô phỏng dựa trên hoạt động của hệ thống thần kinh của sinh vật, bao gồm số lượng lớn các Nơron được gắn kết để xử lý thông tin. ANN giống như bộ não con người, được học bởi kinh nghiệm (thông qua huấn luyện), có khả năng lưu giữ những kinh nghiệm hiểu biết (tri thức) và sử dụng những tri thức đó trong việc dự đoán các dữ liệu chưa biết (unseen data)
+- max-pooling : thủ tục này chọn giá trị lớn nhất trong vùng đầu vào 2×2.
+-  Feature Map : ma trận lớp đầu vào
+- shared weight: trọng số xác định các đặt trưng
+- shared bias : độ lệch xác định một feature map.
+- pooling layer: lớp tổng hợp
+
+
+

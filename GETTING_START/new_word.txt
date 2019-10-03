@@ -1,0 +1,28 @@
+deploy : triển khai
+relevant : liên quan 
+indicates : chứng tỏ rằng
+bulk : đại lượng thể tích, số lượng lớn
+integrate : hợp nhất, làm tròn, lấy tích phân
+Recovery : sự phục hồi
+bucket : bộ chứa, vật chứa, vùng chứa.
+Sliding Windows : cửa sổ trượt
+Location Invariance : tính bất biến
+Compositionality : tính kết hợp
+pooling : tổng hợp
+share weights : trọng số chia sẻ
+local receptive field: các trường tiếp nhận cục bộ
+Connection Weights : Trọng số liên kết
+Summation Function : Hàm tổng
+Transfer Function : Hàm chuyển đổi
+Activation : Khả năng kích hoạt
+internal activation : kích hoạt bên trong
+Normalized Function : hàm chuẩn hóa
+Threshold value : Các giá trị ngưỡng
+pooling: sự hợp nhất, sự gộp
+
+
+
+
+
+
+ 
